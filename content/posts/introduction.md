@@ -36,12 +36,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Congratulations on your new role as an engineering manager!
+Congratulations on your new role as a software engineering manager!
 
 <!--more-->
 
 Your job first and foremost is to execute. As a manager, you are a leader who harnesses your team's skills to achieve specific goals. To accomplish this, you need to be an adept coach, communicator, and decision-maker.
 
-While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
+While senior engineers act as force multipliers through technology, you serve as a multiplier through people.
 
 This is a collection of heuristics I've learned from my own experience and from other managers.
