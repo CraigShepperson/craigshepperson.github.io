@@ -1,7 +1,7 @@
 ---
 title: "What makes a great engineering manager?"
-date: 2023-01-01
-weight: 2
+date: 2023-01-02
+# weight: 2
 # aliases: ["/first"]
 tags: ["manager"]
 author: "Craig Shepperson"
