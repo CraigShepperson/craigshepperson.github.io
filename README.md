@@ -1,1 +1,1 @@
-# craigshepperson.github.io
+# The Software Managers Guidebook
