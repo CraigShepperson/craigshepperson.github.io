@@ -69,7 +69,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Who is this for?"
+  Title = "The Software Managers Guidebook"
   Content = "This is a collection of heuristics I've learned from my own experience and from other managers."
 
   [[params.socialIcons]]
