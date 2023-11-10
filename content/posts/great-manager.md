@@ -36,7 +36,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Being a great engineering manager involves a unique combination of technical expertise, leadership skills, and a deep understanding of people. It requires a continuous journey of self-improvement, learning, and adaptation. It's also about recognizing that the success of the team is intricately tied to the well-being and professional growth of individual team members. Balancing technical expertise with strong interpersonal skills and a strategic mindset will help you excel in this role.
+Being a great engineering manager involves a unique combination of technical expertise, leadership skills, and a deep understanding of people. Navigating a continuous journey of self-improvement, learning, and adaptation. It's also about recognizing that the success of the team is intricately tied to the well-being and professional growth of individual team members. Balancing technical expertise with strong interpersonal skills and a strategic mindset will help you excel in this role.
 
 <!--more-->
 
