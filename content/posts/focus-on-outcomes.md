@@ -1,7 +1,7 @@
 ---
 title: "Focus on outcomes"
-date: 2020-09-15T11:30:03+00:00
-weight: 3
+date: 2023-01-03
+#  weight: 3
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
