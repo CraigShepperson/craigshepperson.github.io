@@ -1,5 +1,5 @@
-baseURL = "https://examplesite.com/"
-title = "ExampleSite"
+baseURL = "https://craigshepperson.github.io/"
+title = "Craig Shepperson"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -69,20 +69,12 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Title = "Who is this for?"
+  Content = "This is a collection of heuristics I've learned from my own experience and from other managers."
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/craig-shepperson"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -123,12 +115,6 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
 
 [markup.highlight]
 noClasses = false

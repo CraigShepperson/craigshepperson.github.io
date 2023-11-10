@@ -1,14 +1,14 @@
 ---
-title: "My 1st post"
+title: "Focus on outcomes"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
+weight: 3
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
@@ -35,3 +35,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+Every organisation is unique, there is no one size fits all approach. To know whether the principles and practices you are using, are having the desired impact, you need to know what your desired outcomes are and keep your eye on that ball.
+
+<!--more-->
+
