@@ -1,6 +1,6 @@
 ---
 title: "What makes a great engineering manager?"
-date: 2023-01-02
+date: 2023-09-01
 # weight: 2
 # aliases: ["/first"]
 tags: ["manager"]
