@@ -1,5 +1,5 @@
 ---
-title: "What makes a great engineering manager?"
+title: "What Makes a Great Engineering Manager?"
 date: 2023-09-01
 # weight: 2
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "While senior engineers act as force multipliers through technology, you serve as a multiplier through people."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -36,11 +36,11 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-Your job first and foremost is to execute. As a manager, you are a leader who harnesses your team's skills to achieve specific goals. To accomplish this, you need to be an adept coach, communicator, and decision-maker. Navigating a continuous journey of self-improvement, learning, and adaptation. Balancing technical expertise with strong interpersonal skills and a strategic mindset will help you excel in this role.
+Your job first and foremost is to execute.
+
+As a manager, you are a leader who harnesses your team's skills to achieve specific goals. To accomplish this, you need to be an adept coach, communicator, and decision-maker. Navigating a continuous journey of self-improvement, learning, and adaptation. Balancing technical expertise with strong interpersonal skills and a strategic mindset will help you excel in this role.
 
 It's also about recognising that the success of the team is intricately tied to the well-being and professional growth of individual team members. 
-
-While senior engineers act as force multipliers through technology, you serve as a multiplier through people.
 
 <!--more-->
 
